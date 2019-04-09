@@ -1,5 +1,4 @@
 Trabalho de scripts
 
 Integrantes do projeto:
-Lucas Lopes
-Erick Deus
+Lucas Lopes e Erick Deus

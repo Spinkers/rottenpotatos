@@ -5,7 +5,7 @@ window.onload = function () {
     `<div class="header">
     <img class="logo" src="./img/LOGO.png">
     <h1>Rotten Potatos</h1>
-    <p>Qualidade e Originalidade</p>
+    <p>Um site apaixonado por filmes e batatas</p>
     </div>`;
 
     document.getElementById("headerIndex").innerHTML = headerIndex;
@@ -17,7 +17,7 @@ window.onload = function () {
     `<div class="topnav">
     <a href="index.html">Início</a>
     <a href="lancamentos.html">Lançamentos</a>
-    <a href="indicacoes.html">Indicações</a>
+    <a href="https://github.com/Spinkers/rottenpotatos" target="_blank">GitHub</a>
     <a href="about.html" style="float:right">Quem somos</a>
     </div>`;
 

@@ -1,0 +1,44 @@
+.boxPrinc {
+	width: 70%;
+	height: 35%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-top: 10px;
+}
+
+.boxSecon {
+	display: inline-block;
+	width: 35%;
+	height: 100%;
+}
+
+.boxThr {
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+	background-color: #fff;
+	vertical-align: top;
+}
+
+.boxImg {
+	width: 100%;
+}
+
+.button {
+	background-color: #4CAF50;
+	/* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button1 {
+	background-color: white;
+	color: black;
+	border: 2px solid #4CAF50;
+}

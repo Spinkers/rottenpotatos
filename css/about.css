@@ -1,20 +1,20 @@
 .frameAbout {
-    width:30%; 
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
-    display: inline-block; 
-    padding: 20px; 
-    margin: 20px;
+	width: 30%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	display: inline-block;
+	padding: 20px;
+	margin: 20px;
 }
 
 .circle {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    overflow: hidden;
-    position: relative;
-  }
-  
-  .circle img {
-    bottom: 0;
-    width: 100%;
-  }
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	position: relative;
+}
+
+.circle img {
+	bottom: 0;
+	width: 100%;
+}
