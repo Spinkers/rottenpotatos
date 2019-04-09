@@ -4,7 +4,7 @@ window.onload = function () {
     let headerIndex = 
     `<div class="header">
     <img class="logo" src="./img/LOGO.png">
-    <h1>Rotten Potatos</h1>
+    <h1>Rotten Potatoes</h1>
     <p>Um site apaixonado por filmes e batatas</p>
     </div>`;
 
