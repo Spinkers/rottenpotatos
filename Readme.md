@@ -7,7 +7,7 @@
 <h1>Trabalho de scripts - 10/04/2019</h1>
 
 <b>Nome do projeto: </b>
-<p>Rotten Potatos.</p>
+<p>Rotten Potatoes.</p>
 <br />
 <b>Proposta: </b>
 <p>Criar um site estático utilizando apenas HTML, CSS e o mínimo de Javascript possível.</p>
