@@ -13,6 +13,7 @@
 <p>Criar um site estático utilizando apenas HTML, CSS e o mínimo de Javascript possível.</p>
 <br />
 <b>Mapa do site: </b>
+<br />
 <a>- Index</a>
 <br />
 <a>-- Lançamentos</a>
