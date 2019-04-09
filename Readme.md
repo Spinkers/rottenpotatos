@@ -19,6 +19,13 @@
 <br />
 <a>--- Quem somos</a>
 <br />
+<br />
+
+<b>Index:</b>
+<p>O objetivo da página inicial é exibir postagens sobre filmes e séries</p>
+<br />
+<p>Na página inicial também existe um componente chamado "frames", onde vários posters ficam passando sob a forma de uma animação de scroll horizontal, a ideia é que cada poster possa ser um link para a sinopse do mesmo.</p>
+
 <b>Integrantes do projeto:</b>
 <ol>
 <li>Lucas Mourão Lopes</li>
