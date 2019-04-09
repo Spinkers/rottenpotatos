@@ -26,7 +26,7 @@
 <p>O objetivo da página inicial é exibir postagens sobre filmes e séries</p>
 <p>Na página inicial também existe um componente chamado "frames", onde vários posters ficam passando sob a forma de uma animação de scroll horizontal, a ideia é que cada poster possa ser um link para a sinopse do mesmo.</p>
 <br />
-<b>Lançamentos<b/>
+<b>Lançamentos</b>
 <p>Na página de lançamentos podemos encontrar os principais lançamentos do mês, cada qual com suas respectivas informações</p>
 <br />
 <b>Quem somos</b>
