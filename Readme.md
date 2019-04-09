@@ -39,7 +39,6 @@
 <li>Top 03 da semana</li>
 </ol>
 <p>O componente Siga-nos oferece algumas opções aos usuários de acompanhar o trabalho do site além da página em si, nas redes sociais!</p>
- <br />
  <p>Já a ideia do componente Top 03 da semana, é estar sempre indicando os filmes mais acessados.</p>
 <b>Integrantes do projeto:</b>
 <ol>
